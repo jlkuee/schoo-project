@@ -1,1 +1,1 @@
-# schoo-project
+# school-project
